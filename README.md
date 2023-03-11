@@ -1,2 +1,2 @@
 # My-Buddy
-Contains the files for buddy
+My First AI bot for an Ecom store!
