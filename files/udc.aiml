@@ -17,19 +17,19 @@
 
 <category>
     <pattern>Hello </pattern>
-    <template>Hi! How may I help you?</template>
+    <template> Hi! How may I help you?</template>
 </category>
 
-<category><pattern>There?</pattern><template><srai>HELLO </srai></template></category>
+
 <category><pattern>There</pattern><template><srai>HELLO </srai></template></category>
 <category><pattern>there</pattern><template><srai>HELLO </srai></template></category>
-<category><pattern>there?</pattern><template><srai>HELLO </srai></template></category>
+
 
 
 <category><pattern>Hi!</pattern><template><srai>HELLO </srai></template></category>
 
 
-<category><pattern>Howdy!</pattern><template><srai>HELLO </srai></template></category>
+<category><pattern>Howdy</pattern><template><srai>HELLO </srai></template></category>
 
 
 
@@ -38,33 +38,33 @@
 <category><pattern>Hi</pattern><template><srai>HELLO </srai></template></category>
 
 <category>
-    <pattern>How are you?</pattern>
+    <pattern>How are you</pattern>
     <template>I'm doing well, and you?</template>
 </category>
 
-<category><pattern>What's Up?</pattern><template><srai>HOW ARE YOU?</srai></template></category>
+<category><pattern>Whats Up</pattern><template><srai>How are you</srai></template></category>
 
 
-<category><pattern>How do you do?</pattern><template><srai>HOW ARE YOU?</srai></template></category>
+<category><pattern>How do you do</pattern><template><srai>How are you</srai></template></category>
 
 
-<category><pattern>How are you</pattern><template><srai>HOW ARE YOU?</srai></template></category>
+
 
 
 
 
 <category>
-    <pattern>I'm Fine!</pattern>
+    <pattern>I am Fine</pattern>
     <template>That's Nice! Hi, how may I assist you today?
 </template>
 </category>
 
-<category><pattern>I am Fine!</pattern><template><srai>I'M FINE!</srai></template></category>
-<category><pattern>I'm good as well</pattern><template><srai>I'M FINE!</srai></template></category>
-<category><pattern>I am also fine. thanks</pattern><template><srai>I'M FINE!</srai></template></category>
+
+<category><pattern>I am good as well</pattern><template><srai>I am Fine</srai></template></category>
+<category><pattern>I am also fine thanks</pattern><template><srai>I am Fine</srai></template></category>
 
 <category>
-    <pattern>I want to order a dress but when I got to checkout page it does not show payment via COD!</pattern>
+    <pattern>I want to order a dress but when I got to checkout page it does not show payment via COD</pattern>
     <template>We are sorry about that. But COD is not available at the moment!
 Currently, we have these payment options available.
 VISA / Master Card
@@ -73,12 +73,12 @@ Bank Transfer
 Which payment plan s</template>
 </category>
 
-<category><pattern>I want COD as payment mode but its not available</pattern><template><srai>I want to order a dress but when I got to checkout page it does not show payment via COD!</srai></template></category>
-<category><pattern>I do not see COD as payment option?</pattern><template><srai>I want to order a dress but when I got to checkout page it does not show payment via COD!</srai></template></category>
+<category><pattern>I want COD as payment mode but its not available</pattern><template><srai>I want to order a dress but when I got to checkout page it does not show payment via COD</srai></template></category>
+<category><pattern>I do not see COD as payment option</pattern><template><srai>I want to order a dress but when I got to checkout page it does not show payment via COD</srai></template></category>
 
 
 <category>
-    <pattern>How can I Pay via bank transfer?</pattern>
+    <pattern>How can I Pay via bank transfer</pattern>
     <template>There you go!
 Bank Name: XYZ Bank
 Account Number# 11111111
@@ -88,10 +88,10 @@ SWIFT Code: XXXXXX
 </template>
 </category>
 
-<category><pattern>Please provide your Bank transfer details?</pattern><template><srai>HOW CAN I PAY VIA BANK TRANSFER?</srai></template></category>
+<category><pattern>Please provide your Bank transfer details</pattern><template><srai>How can I Pay via bank transfer</srai></template></category>
 
 <category>
-    <pattern>Thanks, I will make bank transfer then get back you</pattern>
+    <pattern>Thanks I will make bank transfer then get back you</pattern>
     <template>I'm Pleased to help you! On a scale of 1 to 10, how would you rate our customer support?</template>
 </category>
 
@@ -102,7 +102,7 @@ SWIFT Code: XXXXXX
 
 <category><pattern>Awesome</pattern><template><srai>IT WAS GOOD</srai></template></category>
 
-<category><pattern>It was good!</pattern><template><srai>AWESOME</srai></template></category>
+<category><pattern>It was good</pattern><template><srai>AWESOME</srai></template></category>
 
 
 </aiml>
