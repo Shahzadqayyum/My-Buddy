@@ -17,7 +17,7 @@
 
 <category>
     <pattern>Hello </pattern>
-    <template><srai>Hi! How may I help you?</srai></template>
+    <template>Hi! How may I help you?</template>
 </category>
 
 <category><pattern>There?</pattern><template><srai>HELLO </srai></template></category>
@@ -39,7 +39,7 @@
 
 <category>
     <pattern>How are you?</pattern>
-    <template><srai>I'm doing well, and you?</srai></template>
+    <template>I'm doing well, and you?</template>
 </category>
 
 <category><pattern>What's Up?</pattern><template><srai>HOW ARE YOU?</srai></template></category>
@@ -55,7 +55,7 @@
 
 <category>
     <pattern>I'm Fine!</pattern>
-    <template><srai>That's Nice! Hi, how may I assist you today?</srai>
+    <template>That's Nice! Hi, how may I assist you today?
 </template>
 </category>
 
@@ -65,12 +65,12 @@
 
 <category>
     <pattern>I want to order a dress but when I got to checkout page it does not show payment via COD!</pattern>
-    <template><srai>We are sorry about that. But COD is not available at the moment!
+    <template>We are sorry about that. But COD is not available at the moment!
 Currently, we have these payment options available.
 VISA / Master Card
 Paypal
 Bank Transfer
-Which payment plan suits you? </srai></template>
+Which payment plan s</template>
 </category>
 
 <category><pattern>I want COD as payment mode but its not available</pattern><template><srai>I want to order a dress but when I got to checkout page it does not show payment via COD!</srai></template></category>
@@ -79,11 +79,11 @@ Which payment plan suits you? </srai></template>
 
 <category>
     <pattern>How can I Pay via bank transfer?</pattern>
-    <template><srai>There you go!
+    <template>There you go!
 Bank Name: XYZ Bank
 Account Number# 11111111
 Account Title: ABC
-SWIFT Code: XXXXXX</srai>
+SWIFT Code: XXXXXX
 
 </template>
 </category>
@@ -91,13 +91,13 @@ SWIFT Code: XXXXXX</srai>
 <category><pattern>Please provide your Bank transfer details?</pattern><template><srai>HOW CAN I PAY VIA BANK TRANSFER?</srai></template></category>
 
 <category>
-    <pattern>Thanks, I will make bank transfer then get back you!</pattern>
-    <template><srai>I'm Pleased to help you! On a scale of 1 to 10, how would you rate our customer support?</srai></template>
+    <pattern>Thanks, I will make bank transfer then get back you</pattern>
+    <template>I'm Pleased to help you! On a scale of 1 to 10, how would you rate our customer support?</template>
 </category>
 
 <category>
     <pattern>It was good</pattern>
-    <template><srai>Thankyou. Feel free to contact us if you still need any help. Bye for now!</srai></template>
+    <template>Thankyou. Feel free to contact us if you still need any help. Bye for now!</template>
 </category>
 
 <category><pattern>Awesome</pattern><template><srai>IT WAS GOOD</srai></template></category>
